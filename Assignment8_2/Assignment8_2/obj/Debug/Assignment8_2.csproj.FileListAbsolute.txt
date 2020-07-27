@@ -1,0 +1,20 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment8_2\Assignment8_2\bin\Debug\Assignment8_2.exe.config
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment8_2\Assignment8_2\bin\Debug\Assignment8_2.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment8_2\Assignment8_2\bin\Debug\Assignment8_2.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.csprojAssemblyReference.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.Form1.resources
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.Properties.Resources.resources
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.csproj.GenerateResource.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.pdb
+C:\Users\bigdo\OneDrive\Documents\Bellevue School Info&Class Work\Classes\Session2\BusinessProgC#\BellevueUniversity-C\Assignment8_2\Assignment8_2\bin\Debug\Assignment8_2.exe.config
+C:\Users\bigdo\OneDrive\Documents\Bellevue School Info&Class Work\Classes\Session2\BusinessProgC#\BellevueUniversity-C\Assignment8_2\Assignment8_2\bin\Debug\Assignment8_2.exe
+C:\Users\bigdo\OneDrive\Documents\Bellevue School Info&Class Work\Classes\Session2\BusinessProgC#\BellevueUniversity-C\Assignment8_2\Assignment8_2\bin\Debug\Assignment8_2.pdb
+C:\Users\bigdo\OneDrive\Documents\Bellevue School Info&Class Work\Classes\Session2\BusinessProgC#\BellevueUniversity-C\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.csprojAssemblyReference.cache
+C:\Users\bigdo\OneDrive\Documents\Bellevue School Info&Class Work\Classes\Session2\BusinessProgC#\BellevueUniversity-C\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.Form1.resources
+C:\Users\bigdo\OneDrive\Documents\Bellevue School Info&Class Work\Classes\Session2\BusinessProgC#\BellevueUniversity-C\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.Properties.Resources.resources
+C:\Users\bigdo\OneDrive\Documents\Bellevue School Info&Class Work\Classes\Session2\BusinessProgC#\BellevueUniversity-C\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.csproj.GenerateResource.cache
+C:\Users\bigdo\OneDrive\Documents\Bellevue School Info&Class Work\Classes\Session2\BusinessProgC#\BellevueUniversity-C\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.csproj.CoreCompileInputs.cache
+C:\Users\bigdo\OneDrive\Documents\Bellevue School Info&Class Work\Classes\Session2\BusinessProgC#\BellevueUniversity-C\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.exe
+C:\Users\bigdo\OneDrive\Documents\Bellevue School Info&Class Work\Classes\Session2\BusinessProgC#\BellevueUniversity-C\Assignment8_2\Assignment8_2\obj\Debug\Assignment8_2.pdb
